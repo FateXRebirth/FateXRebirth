@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kevin Peng</h1>
 <h3 align="center">A passionate frontend software engineer from Taiwan</h3>
 
-🔭 I’m currently looking for **a new position**
+🔭 I’m currently working at [Morrison Express Corporation](https://www.morrisonexpress.com/)
 
 🌱 I’m currently learning **mobile app development and devops**
 
